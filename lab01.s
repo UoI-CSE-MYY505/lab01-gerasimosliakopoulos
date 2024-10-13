@@ -1,4 +1,4 @@
-# Introduction to Risc-V assembly programming using Ripes (https://github.com/mortbopet/Ripes)
+# Introduction to  Risc-V assembly programming using Ripes (https://github.com/mortbopet/Ripes)
 # for MYY505 - Computer Architecture
 # Aris Efthymiou
 # Department of Computer Engineering, University of Ioannina
